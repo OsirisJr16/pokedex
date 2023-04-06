@@ -1,3 +1,5 @@
+Ce projet Pokedex est une application web qui permet aux utilisateurs de rechercher et de visualiser des informations sur différents Pokémon. Il utilise l'API PokeAPI pour récupérer les données et les afficher de manière organisée et conviviale.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
